@@ -11,7 +11,7 @@ This project features an interactive and detailed Power BI dashboard focusing on
 - **Interactive Visualizations**: User-friendly visuals and filters for custom views.
 
 ## Files Included
-- [`Olympic 2024_Dashboard.pbix`]: The Power BI dashboard file.
+- [`Olympic 2024_Dashboard.pbix`](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/feb4c3600a40ff669f4deddbe293814e174af43b/Olympic%202024_Dashboard.pbix): The Power BI dashboard file.
 - `Data/`: Folder containing raw data files used for the dashboard.
 - `Images/`: Folder with screenshots of the dashboard for preview.
 - `README.md`: This documentation file.
