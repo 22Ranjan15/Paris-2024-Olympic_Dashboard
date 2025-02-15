@@ -1,4 +1,5 @@
 # 🏅 Olympic Data Analysis - Power BI Dashboard
+---
 
 ## 📌 Project Overview
 This project presents an **interactive Power BI dashboard** for a comprehensive analysis of the **2024 Olympic Games** and historical data from past editions. The dashboard provides actionable insights into **athlete performance, country-wise participation, and medal trends** over multiple Olympic Games.
@@ -9,19 +10,37 @@ The project leverages **Power BI, DAX, Python, and Figma** to process over **10,
 
 ## 🚀 Features & Key Takeaways
 ### 📊 **1. Home Page**
-- Provides an overview of key **Olympic Theam** at a glance and a **quick start** of this dashboard.  
+- Provides an overview of key **Olympic Theam** at a glance and a **quick start** of this dashboard.
+
+![1_Home Page](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/main/Snapshots/1_Home.png)
+
+---
 
 ### 📈 **2. Overview Page**
 - Displays general insights, including total athletes, countries, male & female athlete distribution, medal counts by type, and medal trends over time, highlighting top-performing nations.
 
+![2_Overview Page](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/main/Snapshots/2_Overview.png)
+
+---
+
 ### 🏃‍♂️ **3. Athletes Page**
 - Highlights top-performing country, age-wise distribution of male and female athletes, and country-wise medal counts.
+
+![3_Athletes Page](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/main/Snapshots/3_Athletes.png)
+
+---
 
 ### 🌍 **4. Country-wise Performance Page**
 - **Medal distribution per country**, provide map view of countries perticipated.
 
+![4_Country Page](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/main/Snapshots/4_Country.png)
+
+---
+
 ### 📜 **5. Historical Trends Page**
 - **Visualization of Olympic history**, identifying key trends. Analysis of dominant countries over different Olympic decades.
+
+![5_Historical Page](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/main/Snapshots/5_Historical.png)
 
 ---
 
